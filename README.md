@@ -7,7 +7,7 @@
 - :hammer: Creator of applications and software
 - 🥋 Kendo two dan practicer
 - 💼 Looking for backend internships now
-- 📚 Studying in Southern University of Science and Technology
+- 📚 I'm now studying in SUSTech
 
 <!--
 **Kazawaryu/Kazawaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
