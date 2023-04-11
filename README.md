@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I am GhosnP 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+- :orange_book: Focusing on Java & Autopilot
+- :hammer: Creator of applications and software
+- 🥋 Kendo two dan practicer
+- 💼 Looking for backend internships now
+- 💬 Personal [website](https://kazawaryu-ghosnp.netlify.app)
 
 <!--
 **Kazawaryu/Kazawaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
