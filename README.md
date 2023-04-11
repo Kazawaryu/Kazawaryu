@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 💬 [Personal website](https://kazawaryu-ghosnp.netlify.app)
-- :orange_book: Focusing on Java & Autopilot
+- :orange_book: Focusing on Backend & Autopilot
 - :hammer: Creator of applications and software
 - 🥋 Kendo two dan practicer
 - 💼 Looking for backend internships now
