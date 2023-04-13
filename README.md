@@ -9,6 +9,7 @@
 - 💼 Looking for backend internships now
 - 📚 Studying in SUSTech now
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/Kazawaryu&left_color=blue&right_color=red)
 <!--
 **Kazawaryu/Kazawaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
