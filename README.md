@@ -1,8 +1,8 @@
-### 👋 Hi there, I am GhosnP, or you could call me KazawaRyu      
+### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>  
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/Kazawaryu&left_color=blue&right_color=red) -->
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+ <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 - 💬  Personal website (Closed)
 - 📙  Focusing on Backend & Autopilot
