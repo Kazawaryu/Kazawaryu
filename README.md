@@ -1,4 +1,4 @@
-#### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30" /> Hi, there! I'm Kazawaryu.</h2>  
+#### <h1> <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30" /> Hi, there! I'm Kazawaryu.</h2>  
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/Kazawaryu&left_color=blue&right_color=red) -->
 <!-- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> -->
  <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
