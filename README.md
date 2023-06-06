@@ -5,14 +5,13 @@
  
 [![OT](https://img.shields.io/badge/Work%20OT-100+%20Days-blue?style=flat-square)](https://img.shields.io/badge/Work%20OT-100+%20Days-blue?style=flat-squar)
 [![Visitor](https://komarev.com/ghpvc/?username=Kazawaryu&style=flat-square&color=brightgreen&label=Visitor%20Count)](https://komarev.com/ghpvc/?username=Kazawaryu&style=flat-square&color=green&label=Visitor%20Count)
-- 📙  Focusing on Backend & Autopilot
+- 🔭  Focusing on Backend & Autopilot & Unity
 - 🔨  Creator of applications and software
 - 🥋  Kendo two dan practicer
 - 💼  Learning CVAI and SLAM 
-- 📚  Studying in SUSTC
+- 🤔  Dying in SUSTC (OT every day)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazawaryu&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,html,VHDL,SystemVerilog,Tcl,Less,Shell,Stata,Forth&layout=compact&langs_count=8)
-
  -->
 
 <!--
