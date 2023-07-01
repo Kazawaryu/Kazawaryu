@@ -1,7 +1,7 @@
 #### <h1> <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="30" /> Hi, there! I'm Ghosn P.</h1>  
  <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
  
-[![OT](https://img.shields.io/badge/Work%20OT-100+%20Days-blue?style=flat-square)](https://img.shields.io/badge/Work%20OT-100+%20Days-blue?style=flat-squar)
+[![OT](https://img.shields.io/badge/Work%20OT-150+%20Days-blue?style=flat-square)](https://img.shields.io/badge/Work%20OT-100+%20Days-blue?style=flat-squar)
 [![Visitor](https://komarev.com/ghpvc/?username=Kazawaryu&style=flat-square&color=brightgreen&label=Visitor%20Count)](https://komarev.com/ghpvc/?username=Kazawaryu&style=flat-square&color=green&label=Visitor%20Count)
 - 🔭  Focusing on Backend & Autopilot & Unity
 - 🔨  Creator of applications and software
