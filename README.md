@@ -6,8 +6,9 @@
 - 🔭  Focusing on Backend & Autopilot & Unity
 - 🔨  Creator of applications and software
 - 🥋  Kendo two dan practicer
-- 💼  Learning CVAI and SLAM 
+- 💼  Learning Velodyne and SLAM 
 - 🤔  Dying in SUSTC (OT every day)
+- 🌱  Working as an algorithm intern
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazawaryu&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,html,VHDL,SystemVerilog,Tcl,Less,Shell,Stata,Forth&layout=compact&langs_count=8)
  -->
