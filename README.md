@@ -3,12 +3,11 @@
  
 [![OT](https://img.shields.io/badge/Work%20OT-200+%20Days-blue?style=flat-square)](https://img.shields.io/badge/Work%20OT-100+%20Days-blue?style=flat-squar)
 [![Visitor](https://komarev.com/ghpvc/?username=Kazawaryu&style=flat-square&color=brightgreen&label=Visitor%20Count)](https://komarev.com/ghpvc/?username=Kazawaryu&style=flat-square&color=green&label=Visitor%20Count)
-- 🔭  Focusing on Backend & Autopilot & Unity
-- 🔨  Creator of applications and software
+- 🔭  Focusing on autonomous point cloud algorithm
+- 🔨  Creator of applications and algorithm
 - 🥋  Kendo two dan practicer
-- 💼  Learning Velodyne and SLAM 
 - 🤔  Dying in SUSTC (OT every day)
-- 🌱  Working as an algorithm intern
+- 💼  Learning ML & DL 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazawaryu&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,html,VHDL,SystemVerilog,Tcl,Less,Shell,Stata,Forth&layout=compact&langs_count=8)
  -->
