@@ -6,8 +6,7 @@
 - 🔭  Focusing on autonomous driving
 - 🔨  Creator of applications and algorithm
 - 🥋  Kendo 2-3 dan practicer
-- 🤔  Dying in SUSTC (OT every day)
-- 💼  Learning ML & DL 
+- 🤔  Dying in SUSTC 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazawaryu&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,html,VHDL,SystemVerilog,Tcl,Less,Shell,Stata,Forth&layout=compact&langs_count=8)
  -->
