@@ -8,7 +8,7 @@
 - 📫  [Available](<12011126@mail.sustech.edu.cn>) from 11 a.m. to 11 p.m. (GMT+8)
 - 🥋  Kendo 4 years practicer
 - 🤔  Dying in SUSTC 
-- ⚡  R.I.P Kobe
+- ⚡  [R.I.P Kobe](https://www.sharkurry.com/restinpeacekobe)
 
  <a href ="https://spotify-github-profile.kittinanx.com/api/view?uid=31yalwcxop346gwmwggmtciemq3y&redirect=true"><img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yalwcxop346gwmwggmtciemq3y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="270" />
 
