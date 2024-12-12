@@ -10,6 +10,9 @@
 - 🤔  Dying in SUSTC 
 - ⚡  R.I.P Kobe
 
+ <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yalwcxop346gwmwggmtciemq3y&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="250" />
+
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazawaryu&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,html,VHDL,SystemVerilog,Tcl,Less,Shell,Stata,Forth&layout=compact&langs_count=8)
  -->
 <!--
