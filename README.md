@@ -12,9 +12,9 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazawaryu&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,html,VHDL,SystemVerilog,Tcl,Less,Shell,Stata,Forth&layout=compact&langs_count=8)
  -->
-
+<!--
 <div align=center><img src="https://spotify-recently-played-readme.vercel.app/api?user=31yalwcxop346gwmwggmtciemq3y&count=2&width=800" width="800"></div>
-
+-->
 
 <!--
 **Kazawaryu/Kazawaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
