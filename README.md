@@ -1,4 +1,4 @@
- #### <h1> <img src="https://emojis.slackmojis.com/emojis/images/1650676788/58084/guraboing.gif?1650676788" width="35" /> Hi, there! I'm Ghosn P.</h1> 
+ #### <h1> <img src="https://emojis.slackmojis.com/emojis/images/1650676788/58084/guraboing.gif?1650676788" width="35" /> Hi, there! I'm Zexuan.</h1> 
  <img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Kazawaryu&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff" />
 
 
